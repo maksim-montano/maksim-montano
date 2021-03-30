@@ -1,6 +1,8 @@
+<div style="text-align: center">
+
 [![Header](https://github.com/maksim-montano/maksim-montano/blob/main/assets/test.jpg)](https://www.instagram.com/kobozev._maksim/)
 
-I'm Maksim, I'm fifteen years old and I'm a fullstack web-developer.
+<i>I'm Maksim, I'm fifteen years old and I'm a fullstack web-developer.</i>
 
 ![HTML](https://img.shields.io/badge/-html-121212?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-css-121212?style=for-the-badge&logo=css3)
@@ -12,7 +14,7 @@ I'm Maksim, I'm fifteen years old and I'm a fullstack web-developer.
 <!-- ![VK](https://img.shields.io/badge/VKONTAKTE-597da3?style=for-the-badge&logo=vk)
 ![instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white) -->
 
-### Follow me.
+### <b>Follow me.</b>
 
 [![VK](https://img.shields.io/badge/-VK-121212?style=for-the-badge&logo=vk)](https://vk.com/shewonderful)
 [![Instagram](https://img.shields.io/badge/-Instagram-121212?style=for-the-badge&logo=Instagram)](https://www.instagram.com/kobozev._maksim/)
@@ -21,3 +23,5 @@ I'm Maksim, I'm fifteen years old and I'm a fullstack web-developer.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksim-montano&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
