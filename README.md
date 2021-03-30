@@ -12,4 +12,9 @@ I'm Maksim, I'm fifteen years old and I'm a fullstack web-developer.
 <!-- ![VK](https://img.shields.io/badge/VKONTAKTE-597da3?style=for-the-badge&logo=vk)
 ![instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white) -->
 
-Follow me.
+### Follow me.
+
+[![VK](https://img.shields.io/badge/-VK-121212?style=for-the-badge&logo=vk)](https://vk.com/shewonderful)
+[![Instagram](https://img.shields.io/badge/-Instagram-121212?style=for-the-badge&logo=Instagram)](https://www.instagram.com/kobozev._maksim/)
+[![Telegram](https://img.shields.io/badge/-Telegram-121212?style=for-the-badge&logo=telegram)](https://t.me/nontano_dev)
+[![Discord](https://img.shields.io/badge/-Discord-121212?style=for-the-badge&logo=discord)](https://discord.gg/gGtDwUpa)
