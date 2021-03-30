@@ -22,6 +22,6 @@
 [![Discord](https://img.shields.io/badge/-Discord-121212?style=for-the-badge&logo=discord)](https://discord.gg/gGtDwUpa)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksim-montano&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksim-montano&count_private=true&show_icons=true&theme=tokyonight)](https://vk.com/shewonderful)
 
 </div>
